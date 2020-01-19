@@ -24,6 +24,12 @@ This is an ongoing work on Neural Machine Translation for English-Hausa. Accordi
 
 ### Results: Validation Loss and Bleu Score
 
+![Validation Loss and Bleu Score for Dev Test from first run](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Dev_Test_1.png)
+
+For this first run, I had a bleu/validation test score of 34.22 and  a Test Bleu of 30.12. See samples of the translations below.
+
+![Sample Translation](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Dev_Test_1_Examples.png)
+
 
 ## Second Run
 
@@ -34,6 +40,13 @@ This is an ongoing work on Neural Machine Translation for English-Hausa. Accordi
 - Used BPE and the same architecture
 
 ### Results on Dev Test for Second Run
+
+![Validation Loss and Bleu Score for Dev Test from second run](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Dev_Test_2.png)
+
+For this first run, I had a bleu/validation test score of 38.26 and  a Test Bleu of 41.11. See samples of the translations below.
+
+Finally, a Test Bleu of 41.11 is pretty good. I have some other ideas I'm currently working like using a Linguistically Motivated Vocabulary Reduction (LMVR) vs BPE. Some of my thought can be viewed in this [slide deck](https://docs.google.com/presentation/d/1UF0lED6jCIQdKwxY7XErvmq5Nr57MT1lU5pLHSRUhiI/edit?usp=sharing) and I update from time to time.
+
 
 
 
