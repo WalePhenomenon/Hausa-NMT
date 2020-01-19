@@ -2,7 +2,7 @@
 
 This is an ongoing work on Neural Machine Translation for English-Hausa. According to [Sebastian Ruder](https://ruder.io/4-biggest-open-problems-in-nlp/), one of the biggest open problems for NLP is NMT for low-resource languages. NMT suffers a language diversity problem and growing up in a multi-lingual community with about 300 languages and thousands of dialects, I decided to work on NMT for the second largest Afro-Asiatic language after Arabic — Hausa Language. Hausa is also the third largest trade language across a larger swathe of West Africa after English and French. I have started working on this and the results are pretty good so far. I’m currently collaborating with scholars from the [Niger-Volta Language Technologies Institute](https://github.com/Niger-Volta-LTI) and working with some starter notebooks created by the [Masakhane](https://www.masakhane.io) community.
 
-# First Run
+# First Run (Test BLEU: 34.22)
 
 ### Dataset used for first trial run
 
@@ -31,7 +31,7 @@ For this first run, I had a bleu/validation test score of 34.22 and  a Test Bleu
 ![Sample Translation](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Dev_Test_1_Examples.png)
 
 
-## Second Run
+## Second Run (Test BLEU: 41.11)
 
 - Trained on more datasets
 - Added Tanzil (Quran), Wikimedia and Tatoeba parallel corpus to it.
@@ -45,7 +45,7 @@ For this first run, I had a bleu/validation test score of 34.22 and  a Test Bleu
 
 For this first run, I had a bleu/validation test score of 38.26 and  a Test Bleu of 41.11. See samples of the translations below.
 
-Finally, a Test Bleu of 41.11 is pretty good. I have some other ideas I'm currently working like using a Linguistically Motivated Vocabulary Reduction (LMVR) vs BPE. Some of my thought can be viewed in this [slide deck](https://docs.google.com/presentation/d/1UF0lED6jCIQdKwxY7XErvmq5Nr57MT1lU5pLHSRUhiI/edit?usp=sharing) and I update from time to time.
+Finally, a Test Bleu of 41.11 is pretty good. I have some other ideas and experiment I'm currently working on like using a Linguistically Motivated Vocabulary Reduction (LMVR) vs BPE. Some of my thoughts can be viewed in this [slide deck](https://docs.google.com/presentation/d/1UF0lED6jCIQdKwxY7XErvmq5Nr57MT1lU5pLHSRUhiI/edit?usp=sharing) and I update from time to time. You can also reach out to me via email: waleakinfaderin@gmail.com.
 
 
 
