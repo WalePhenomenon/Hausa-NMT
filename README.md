@@ -4,7 +4,7 @@ This is an ongoing work on Neural Machine Translation for English-Hausa. Accordi
 
 
 # Datasets and Summary
-![](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Table1.png)
+![](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Images/Table1.png)
 
 
 ### Pre-Processing and Training
@@ -20,7 +20,7 @@ This is an ongoing work on Neural Machine Translation for English-Hausa. Accordi
 
 ### Results
 
-![](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Table2.png)
+![](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Images/Table2.png)
 
 ![Sample Translation](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Old_Hausa_MT/Dev_Test_1_Examples.png)
 
