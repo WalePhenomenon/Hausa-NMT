@@ -27,7 +27,7 @@ This is an ongoing work on Neural Machine Translation for English-Hausa. Accordi
 
 
 
-Authir: Adewale Akinfaderin ([LinkedIn](https://www.linkedin.com/in/waleakinfaderin/), [Twitter](https://twitter.com/WaleAkinfaderin)
+Author: Adewale Akinfaderin ([LinkedIn](https://www.linkedin.com/in/waleakinfaderin/), [Twitter](https://twitter.com/WaleAkinfaderin))
 
 
 
