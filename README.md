@@ -19,6 +19,13 @@ This is an ongoing work on Neural Machine Translation for English-Hausa. Accordi
 - Xavier initializer (same used for embedding layer)
 - For transformer encoder and decoder: 6 layers, 4 heads, 256 embedding dim, 0.2 embedding dropout rate, 0.3 dropout rate, 256 hidden layer size
 
+### Model Files
+1. [JW 300 - Transformer with BPE subword tokenization](https://drive.google.com/drive/folders/1Gb8tCfdTmczdMf1SJm-m35CWerKV_5t2?usp=sharing)
+2. [JW 300 - Transformer with word level tokenization](https://drive.google.com/drive/folders/1nrH9cGNu4k--mCkvhhMQxOEHUp_KZoIk?usp=sharing)
+3. [All (JW300, Tanzil, Tatoeba & Wikimedia) - Transformer with BPE subword tokenization](https://drive.google.com/drive/folders/1ARrGTpVSgXY7ceiiUyMeG1LK0kcpLS4M?usp=sharing)
+4. [All (JW300, Tanzil, Tatoeba & Wikimedia) - Transformer with word level tokenization](https://drive.google.com/drive/folders/1GLyT5VFjV8k_a3ubo8FFdlSMZgohvV98?usp=sharing)
+
+
 ### Results
 
 ![](https://github.com/WalePhenomenon/Hausa-NMT/blob/master/Images/Table2.png)
